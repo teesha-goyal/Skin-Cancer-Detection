@@ -9,7 +9,7 @@ Skin cancer is a common form of cancer, and early detection increases the surviv
 To build deep learning model to detect skin cancer by classifying a image to be either benign or malignant.
 
 #### Methods
-
+A skin cancer detection deep learning algorithm that takes in photos and classifies them as benign or malignant lesions. The TensorFlow framework is used to build the model using the Resnet50 model and the ISIC archive dataset.
 
 #### Results
 The deep learning models built here are tested on standard datasets, and the metric area under the curve of 84% was observed with a training acuuracy of 99%.
