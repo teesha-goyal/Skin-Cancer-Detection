@@ -7,18 +7,18 @@ In this model, an augmented assistance to the dermatologist is provided using de
 
 A skin cancer detection model built using convolutional neural networks Resnet50. 
 
-## Abstract
-#### Background
+# Abstract
+## Background
 Skin cancer is a common form of cancer, and early detection increases the survival rate by a very large extent.
 
-#### Objective
+## Objective
 To build deep learning model to detect skin cancer by classifying a image to be either benign or malignant.
 
-#### Methods
+## Methods
 A skin cancer detection deep learning algorithm that takes in photos and classifies them as benign or malignant lesions. The TensorFlow framework is used to build the model using the Resnet50 model and the ISIC archive dataset.
 
-#### Results
+## Results
 The deep learning models built here are tested on standard datasets, and the metric area under the curve of 84% was observed with a training acuuracy of 99%.
 
-#### Conclusions
+## Conclusions
 A practitioner can use the model to quickly predict skin cancer and then move forward with the treatment accordingly.
